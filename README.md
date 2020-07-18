@@ -1,2 +1,2 @@
 # reelitin-resources
-Documents, Images, Databases for Project Reelitin
+Documents, Images, Databases for Project Reelitin (AWS)
